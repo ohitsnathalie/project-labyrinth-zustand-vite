@@ -17,8 +17,3 @@ Thanks to help from a fellow boot camp student, the game finally worked. It took
 
 [Here our maze game.](https://fun-maze.netlify.app/)
 
-## Instructions
-
-<a href="src/instruction.md">
-   Labyrinth Maze
-  </a>
